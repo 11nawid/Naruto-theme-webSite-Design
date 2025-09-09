@@ -14,12 +14,13 @@ This project is a digital gallery of design concepts, demonstrating the possibil
 ---
 ## 🎥 Preview Immersive Canvas  
 
-See Immersive Canvas in action — a smooth walkthrough of the 20+ unique full-screen sections.  
+Take a quick look at **Immersive Canvas** in action — a walkthrough of 20+ bold, full-screen layouts built with Next.js and Tailwind CSS.  
 
-[![Watch the Preview]([https://img.youtube.com/vi/your-video-id/maxresdefault.jpg](https://i9.ytimg.com/vi_webp/YzuAfiTbFpM/sddefault.webp?v=68c04d91&sqp=CNSbgcYG&rs=AOn4CLDlqewh3D2Wq1D9UAb7POHu4mIysw))]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/YzuAfiTbFpM?si=DQ-QYTnaLYBxWR-k))  
+[![Watch the Preview](https://i.ytimg.com/vi/YzuAfiTbFpM/hqdefault.jpg)](https://www.youtube.com/watch?v=YzuAfiTbFpM)  
 
-✨ *Click the thumbnail to watch the full demo on YouTube/Vimeo!*  
+✨ *Click the thumbnail to watch the full demo on YouTube!*  
 ---
+
 
 
 ## Features & Sections
