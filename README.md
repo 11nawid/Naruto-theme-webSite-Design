@@ -11,6 +11,17 @@ Immersive Canvas is a single-page web experience built with **Next.js** and **Ta
 
 This project is a digital gallery of design concepts, demonstrating the possibilities of creative front-end development. It brings together bold typography, layered layouts, and expressive visual effects to highlight the flexibility of modern web technologies.
 
+---
+## 🎥 Preview Immersive Canvas  
+
+See Immersive Canvas in action — a smooth walkthrough of the 20+ unique full-screen sections.  
+
+[![Watch the Preview]([https://img.youtube.com/vi/your-video-id/maxresdefault.jpg](https://i9.ytimg.com/vi_webp/YzuAfiTbFpM/sddefault.webp?v=68c04d91&sqp=CNSbgcYG&rs=AOn4CLDlqewh3D2Wq1D9UAb7POHu4mIysw))]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/YzuAfiTbFpM?si=DQ-QYTnaLYBxWR-k))  
+
+✨ *Click the thumbnail to watch the full demo on YouTube/Vimeo!*  
+---
+
+
 ## Features & Sections
 
 The application is composed of distinct, full-screen sections, each with its own identity:
